@@ -1,0 +1,2 @@
+# Skripsi
+Semua tentang skripsi
