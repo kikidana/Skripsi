@@ -1,0 +1,56 @@
+#Salam dan perkenalan penelitian
+#Latar Belakang
+	- Artificial intelligence merupakan salah satu bahasan yang cukup diminati oleh banyak 
+	orang, menurut uari(2021) pada penelitiannya prihal analisa kecerdasan buatan pada sebuah 
+	permainan mengatakan bahwa kecerdasan mampu memberikan keputusan yang tepat didasari oleh
+	pemilihan algoritma yang efektif dan efisien sesuai dari kondisinya untuk dunia game. banyak
+	tipe dan genre yang sudah menerapkan AI tersebut dalam permainannya, dan kebayakan digunakan
+	menjadi lawan tanding demi meningkatkan kemampuan pemain serta mudahnya menemukan lawan tanding.
+	- permainan bergenre strategi seperti permainan kartu monster dan sebagainya merupakan salah satu
+	yang tepat jika menggunakan AI dalam adu tanding. namun peneliti menemukan dalam permainan 
+	seperti ini kerap kali pemain kalah dikarenakan tidak tahu dan salah mengambil langkah dalam 
+	permainan. hal ini di kuatkan kembali oleh penyataan subiantoro(2019) dalam penelitiannya prihal 
+	optimasi AI dalam game strategi bahwa game strategi adalah salah satu genre game yang mana 
+	pemain harus memikirkan cara dengan menentukan pemikiran dan perencanaan yang matang dalam 
+	memperoleh kemenangan. sehingga dapat disimpulkan kesalahan yang fatal seperti tidak tahu 
+	apa yang perlu ditentukan dalam permainan akan meningkatkan kesempatan kalah dalam permainan.
+	- dari hal tersebut saya terpikirkan untuk membuat sebuah prototype sistem saran optimal 
+	dalam permainan strategi berbasis fuzzy mamdani yang bertujuan untuk meminimalisir kesalahan 
+	langkah pemain dalam permainan tersebut. dan dalam penelitian ini peneliti menggunakan 
+	permainan kartu monster Yu-Gi-Oh salah satu game strategi duel monster yang cukup dikenal 
+	pada saat ini.
+
+#Pengenalan Yugioh
+	- Yugioh merupakan sebuah manga atau komik jepang buatan kazuki takahasi, yang berkembang
+	menjadi waralaba meliputi acara televisi, tanding kartu, vidio game dan anime yang bertema
+	zaman mesir kuno yang senantiasa memainkan permainan kartu.
+	- permainan yugioh dimainkan oleh dua orang atau lebih yang dijalankan secara bergiliran dengan 
+	mengeluarkan kartu monster mereka ke papan pertandingan dengan tujuan mengurangi poin kehidupan
+	pemain lain dalam permainan tersebut.
+
+#Sumber Data
+	- pada penelitian ini saya mengambil himpunan data yang berasal dari website kaggle antonio
+	fregrino bolanus yang diunggah pada tahun 2021 adapun attributnya terdapat 18 kolom beberapa yaitu
+	id, nama kartu, type, desc, atk dan def.
+	
+
+#Pertanyaan 
+#Jika ditanya mengapa pakai metode fuzzy ?
+	- karena pada permainan strategi seperti kartu monster Yu-Gi-Oh banyak sekali keambiguan
+	maka saya menggunakan algoritma fuzzy untuk memecahkan permasalahan ini, dan cara ini pula
+	saya peroleh melihat dari penelitian terdahulu milik eko nurdiyanto(2017) yang beliau 
+	meneliti prihal permainan kartu serupa.
+
+#Jika ditanya mengapa memakai metode mamdani ?
+	- kenapa saya memilih metode mamdani adalah karena saya menggunakan basis pengetahuan dari pakar,
+	mengacu pada penelitian sebelumnya milik wrastawa ridwan(2021) prihal fuzzy mamdani pada penentuan 
+	UKT tunggal mahasiswa beliau menyatakan bahwa model mamdani memiliki aturan fuzzy dibangun secara
+	intuisi serta mudah dipahami. dan model ini cocok untuk aplikasi sistem cerdas yang aturan-aturannya
+	dibuat berdasarkan pengetahuan pakar manusia.
+
+#Jika ditanya apa tujuan kamu buat seperti ini ?
+	- tujuan saya yang pertama seperti yang sudah saya jelaskan sebelumnya, yaitu mengetahui bagaimana
+	fuzzy bekerja pada sebuah permainan, yang kedua saya selaku pemain yugioh merasa jika betul fitur
+	ini ada maka akan sangat membantu saya dalam sebuah permainan, dan untuk orang lain.. saya merasa
+	teori fuzzy cocok untuk digunakan aplikasi2 yang dalam fiturnya terdapat keunggulan memecahkan
+	masalah keambiguan. 
